@@ -1,0 +1,1 @@
+Classes are a complicated topic that are often overly simple or predictable. To discuss classes first requires a mention of how systems pertaining to health will be implemented which can be found in [[Player Controller#Health and Armor]].

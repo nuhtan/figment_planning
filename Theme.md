@@ -1,0 +1,10 @@
+The theme of this game is intended to allow the use of guns while still providing flexibility for different enemy types and technologies for abilities. The best analogue of current games seems to be arknights but we might need some other additions to widen the enemy variety.
+
+### Factions
+The enemies and the factions will be playing a large role in the theme there are intended to be 3 factions that operate at different scales with different levels of technologies but there is also intended to be another faction that all of the other factions are at odds with and is the cause of the situations. The player will essentially be creating their own faction that is at odds with all of the others. The factions will be high, med, and low tech and their numbers will will generally be larger for the lower tiers of tech that they employee. There will be a fourth faction that introduces some form of monsters, these monsters will be used in components for higher tier weapons. There will be larger distinct boss forms of monsters, these might be mutations/combinations of lower tier monsters that might inhabit the areas.
+
+### Setting
+The game will be primarily taking place in dense urban areas that are separated by sections suburbs or rural regions. Each urban area is intended to have unique aspects of appearance and in general its own visual palate. Each city is also indented to have unique variations on enemies although the mid tier faction might end up being more of a visual change. The presence that each faction has in each city is also likely to be different with some having stronger control then others. There will be a trend of cities further away from the starting city will be more inhabited by monsters.
+
+### Timeline
+Some time in the near (10-20 years) future. No mass produced new innovations on guns but drones and the such are more advanced and autonomous with a wide range of uses. 

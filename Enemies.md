@@ -1,0 +1,1 @@
+Enemies will be split into 4 factions. A faction for high, mid, and low tech equipment. The fourth faction will be a monster faction that is the cause for the iiii
