@@ -9,6 +9,12 @@ Movement needs to be fluid and since movement drives will drive most animations.
 #### Verticality
 There should also be consideration for vertical traversal in the map, this is part of adapting games to be denser and to have better perceived visual fidelity. In accordance with this the intention is to have a decently dense city(ies) as the location for the game as the building are great at breaking up long distance views but this introduces it own issues with traversal as the vertical nature of buildings in dense urban areas begets the need for vertical traversal. To keep inline with the rest of the design considerations this traversal should be fluid and responsive to player inputs. One key note about vertical traversal is the difference between ascending and descending as they offer unique experiences that can be taken advantage of. For ascending the goal is typically to go to one specific location, this might be a hole/window in a building, a rooftop, or a bridge as some examples, this ascent should be kept quick and to the point unless a story beat is needed and interaction or retrospection might be included and the ascent might be slowed. These ascents could also be used as loading screens for alternative missions types such as raids or other cooperative activities. Descending might take the opposite approach and over a slower time that can be used to reach new locations or just to over a break from combat and the standard running and walking. There is also the potential to chain together both ascending and descending for quick movement across the map but this might threaten to turn into a spiderman game at that point potentially a limit whether by intentional design of ascending points or in a limited number of uses of ascending before touching ground.
 
+### Vaulting
+Climb up and over cover.
+
+### Crouching
+
+
 ### Shooting and Gunplay
 As guns and shooting are one of they key components of gameplay with movement generally being seen as the main counterpart. As an overview the automatic, burst, and semi-automatic weapons will generally be balanced while keeping one another in mind. Guns outside of the more standard rifles/pistols/smgs will have alternative characteristics and will need to be balanced on a more case by case basis. The key aspects of the gameplay design of the various firearms will be making sure that the guns are fun to use (feedback on hitting, sound design, ease of use), and that they feel unique (recoil, sound design, visual design). Fun gunplay also revolves around enemy design as rewarding the player for more skillful play with mechanics like critical points on enemies and the potential for removing armor from enemies to uncover more critical points are just a couple of possible solutions.
 
@@ -21,5 +27,8 @@ The players health pool is a key aspect of balance and influences many of the ot
 ### Multiple Characters
 
 
+### Stealth
+- Current Thoughts:
+Have the player be invisible/cloaked. This removes silly LOS malarky. Have the stealth system be based on audio queues and visualizations. When a player goes into stealth they also lose sight themselves, they can only visualize a small radius around themselves. In lower level areas enemies will patrol more and give their positions away. Sound might create a ripple visualization, this makes it so that a noise made close is easy to identify but further sounds might still not be easy to locate. Player noise is reduced / silenced in this mode but when they do make noise enemies will react and investigate. If the player is in the close field of view of an enemy for too long the enemy will notice that something is off and more aggressively investigate / call other companions to help investigate. If guns are shot while the player is in stealth then the player will get stunned for a short time, this is based on the stealth amplifying the surrounding audio so that the audio can be visualized. Player party members will not be able to go into stealth with the player and will wait at the area the player stealthed until combat starts or the area is otherwise cleared of enemies.
 
 #Development #Figment #Planning #Player_Experience
